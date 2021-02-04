@@ -1,1 +1,0 @@
-/home/remy/Calypso/Projects/cow/results_20200922_000000z.nc
